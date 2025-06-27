@@ -15,7 +15,8 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 
 # edit environment variables for your account
-![image](https://github.com/user-attachments/assets/dc75fef4-aa68-4ba5-979d-5f4144f0b1d6)
+![Screenshot 2025-06-28 003444](https://github.com/user-attachments/assets/b067b612-79f1-44b5-9687-95e20b5b46bf)
+
 
 # get a clone of this project
 ```
